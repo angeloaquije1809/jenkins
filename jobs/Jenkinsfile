@@ -35,3 +35,7 @@ pipeline {
   }
 }  
 
+tools {
+  jdk 'java-11'
+}
+
